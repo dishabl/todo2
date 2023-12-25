@@ -17,7 +17,7 @@ export default function Register() {
   return (
     <div>
       <div className="Fram">
-        <br />
+        {/* <br /> */}
         <div
           style={{
             display: "flex",
